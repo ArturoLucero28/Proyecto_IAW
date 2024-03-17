@@ -12,6 +12,7 @@ Este proyecto consiste en una aplicación web desarrollada en PHP utilizando el 
 - **Dar de alta nuevo usuario**: Solo los administradores tienen permiso para agregar nuevos usuarios al sistema.(en proceso...)
 - **Añadir producto al carro de compra**: Los usuarios pueden agregar productos al carro de compras mientras navegan por la tienda.(Funcion solo para los usuarios)
 - **Ver carro de la compra**: Permite a los usuarios visualizar los productos que han añadido al carro de la compra.(Funcion solo para los usuarios)
+- **Quitar producto del carro de la compra**: Permite a los usuarios eliminar los productos que han añadido al carro de la compra.(Funcion solo para los usuarios)
 - **Borrar producto**:Solo los administradores tienen permiso para eliminar los productos del sistema
 
 ## Tecnologías utilizadas
